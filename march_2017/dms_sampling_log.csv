@@ -1,0 +1,20 @@
+trial_id,date,tide,light,time,sample#,[dms],biological,richness,abundance,taxa,start_fm_count,end_fm_count,volume_filtered,notes
+21,3/16/2017,flood,night,23:54,1,3.530502514,TRUE,2,2,1 goby; 1 lepto,,,,tide was still very weak; little flow; very windy; lots of shrimp
+21,3/17/2017,flood,night,0:34,2,4.299455594,TRUE,2,2,1 puffer; 1 flying fish,,,,tide picked up; sargassum coming in
+21,3/17/2017,flood,night,1:28,3,5.49836854,TRUE,3,5,2 eels; 2 dead goby; 1 dead flying fish,,,,lots of seagrass and sargassum
+22,3/18/2017,flood,night,0:55,1,0,N/A,,,,,,,
+22,3/18/2017,flood,night,1:31,2,4.269945463,TRUE,1,1,1 dead lepto,,,,500+ adult shrimps
+22,3/18/2017,flood,night,2:22,3,5.918976326,TRUE,5,16,12 puffers; 1 congridae; 1 monocanthidae; 1 mahi(not counting); 1 acanthuridae; 1 toadfish,,,,200+ adult shrimp; lots of seagrass; adult blue crab
+22,3/18/2017,flood,night,3:25,4,4.989780481,TRUE,4,11,2 mahi(not counting); 2 toadfish; 1 flying fish; 6 puffers; 2 congridae; ,,,,100+ adult shrimp; manowar; lots of seagrass
+23,3/19/2017,flood,night,2:45,1,11.30769923,TRUE,3,3,1 sergeant major; 1 flounder; 1 puffer,,,,lots of pelagic stuff!
+23,3/19/2017,flood,night,3:30,2,10.52047423,TRUE,5,5,1 mahi (not counted); 1 puffer; 1 seahorse; 1 filefish; 1 lepto; 1 needlefish,,,,tons of seagrass and sargassum and tons of pelagics
+23,3/19/2017,flood,night,4:03,3,5.833039365,TRUE,1,1,1 filefish,,,,tons of pelagic and seagrass and sargassum
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
